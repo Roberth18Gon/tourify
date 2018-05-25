@@ -1,0 +1,6 @@
+importar ProductoCtrl de controllers;
+
+get('/inicio', ProductoCtrl)
+get('/producto', ProductoCtrl)
+get('/pago', ProductoCtrl)
+get('/catalogo', ProductoCtrl)

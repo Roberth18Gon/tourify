@@ -1,0 +1,8 @@
+producto
+    name,
+    description,
+    price,
+    category, 
+    date,
+
+exportar modelo(producto)

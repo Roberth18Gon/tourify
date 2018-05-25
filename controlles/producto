@@ -1,0 +1,6 @@
+importar Producto de models;
+
+function getProduct()
+function addProduct()
+function deleteProduct()
+function updateProduct()
